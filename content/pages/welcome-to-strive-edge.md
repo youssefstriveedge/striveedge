@@ -3,7 +3,7 @@ type: PageLayout
 title: Landing
 sections:
   - type: HeroSection
-    title: Welcome to Strive Edge
+    title: ''
     subtitle: 'Your Growth, Our Strategy'
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
