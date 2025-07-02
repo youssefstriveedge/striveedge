@@ -36,7 +36,7 @@ sections:
         textAlign: left
     type: HeroSection
     actions: []
-  - colors: colors-f
+  - colors: colors-b
     type: FeaturedProjectsSection
     elementId: ''
     actions:
