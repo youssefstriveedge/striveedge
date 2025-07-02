@@ -1,11 +1,73 @@
 ---
 type: PostLayout
-title: AI are so hot right now
+title: >-
+  <!-- wp:group
+  {"tagName":"main","style":{"spacing":{"blockGap":"0","margin":{"top":"0"}}},"layout":{"type":"default"}}
+  --><main class="wp-block-group" style="margin-top:0"><!-- wp:group
+  {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"}}},"layout":{"type":"constrained","contentSize":"","wideSize":""}}
+  --><div class="wp-block-group alignfull"
+  style="padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!--
+  wp:group
+  {"style":{"spacing":{"blockGap":"0px"}},"layout":{"type":"constrained","contentSize":"565px"}}
+  --><div class="wp-block-group"><!-- wp:heading
+  {"textAlign":"center","level":1,"className":"is-style-default","fontSize":"x-large"}
+  --><h1 class="wp-block-heading has-text-align-center is-style-default
+  has-x-large-font-size">Welcome to Strive Edge</h1><!-- /wp:heading --><!--
+  wp:spacer {"height":"1.25rem"} --><div style="height:1.25rem"
+  aria-hidden="true" class="wp-block-spacer"></div><!-- /wp:spacer --><!--
+  wp:paragraph {"align":"center"} --><p class="has-text-align-center">We Help
+  you elevate your Brands Grow Through Smart  Marketing strategies </p><!--
+  /wp:paragraph --><!-- wp:spacer {"height":"1.25rem"} --><div
+  style="height:1.25rem" aria-hidden="true" class="wp-block-spacer"></div><!--
+  /wp:spacer --><!-- wp:buttons
+  {"layout":{"type":"flex","justifyContent":"center"}} --><div
+  class="wp-block-buttons"><!-- wp:button --><div class="wp-block-button"><a
+  class="wp-block-button__link wp-element-button"
+  href="https://striveedgecom.wordpress.com/contact-us/">Get
+  started</a></div><!-- /wp:button --></div><!-- /wp:buttons --></div><!--
+  /wp:group --><!-- wp:spacer
+  {"height":"var:preset|spacing|30","style":{"layout":[]}} --><div
+  style="height:var(--wp--preset--spacing--30)" aria-hidden="true"
+  class="wp-block-spacer"></div><!-- /wp:spacer --><!-- wp:image
+  {"id":8,"sizeSlug":"full","linkDestination":"none","align":"wide","className":"is-style-rounded"}
+  --><figure class="wp-block-image alignwide size-full is-style-rounded"><img
+  src="https://striveedgecom.wordpress.com/wp-content/uploads/2025/06/black-and-brown-flatlay-photo-finance-facebook-cover.png"
+  alt="" class="wp-image-8" /></figure><!-- /wp:image --></div><!-- /wp:group
+  --><!-- wp:group
+  {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}}
+  --><div class="wp-block-group alignfull"
+  style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!--
+  wp:group {"align":"wide","layout":{"type":"constrained"}} --><div
+  class="wp-block-group alignwide"><!-- wp:query
+  {"queryId":1,"query":{"perPage":10,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false},"align":"wide","layout":{"type":"default"}}
+  --><div class="wp-block-query alignwide"><!-- wp:post-template --><!--
+  wp:separator {"className":"alignwide
+  is-style-wide","backgroundColor":"contrast-3"} --><hr
+  class="wp-block-separator has-text-color has-contrast-3-color
+  has-alpha-channel-opacity has-contrast-3-background-color has-background
+  alignwide is-style-wide" /><!-- /wp:separator --><!-- wp:group
+  {"layout":{"type":"constrained"}} --><div class="wp-block-group"><!--
+  wp:heading {"level":3} --><h3 class="wp-block-heading">What Our Future Clients
+  Will Say </h3><!-- /wp:heading --><!-- wp:paragraph --><p>At Strive Edge,
+  we’re building success stories from scratch. Yours could be the first we
+  proudly share here  </p><!-- /wp:paragraph --></div><!-- /wp:group --><!--
+  wp:columns
+  {"verticalAlignment":"center","align":"wide","style":{"spacing":{"margin":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20"}}}}
+  --><div class="wp-block-columns alignwide are-vertically-aligned-center"
+  style="margin-top:var(--wp--preset--spacing--20);margin-bottom:var(--wp--preset--spacing--20)"><!--
+  wp:column {"verticalAlignment":"center","width":"28%"} --><div
+  class="wp-block-column is-vertically-aligned-center"
+  style="flex-basis:28%"></div><!-- /wp:column --></div><!-- /wp:columns --><!--
+  /wp:post-template --><!-- wp:query-pagination
+  {"paginationArrow":"arrow","layout":{"type":"flex","justifyContent":"space-between"}}
+  --><!-- wp:query-pagination-previous /--><!-- wp:query-pagination-numbers
+  /--><!-- wp:query-pagination-next /--><!-- /wp:query-pagination --></div><!--
+  /wp:query --></div><!-- /wp:group --></div><!-- /wp:group --></main><!--
+  /wp:group --><!-- wp:paragraph --><p></p><!-- /wp:paragraph -->
 colors: colors-a
 date: '2024-05-02'
 author: content/data/team/doris-soto.json
-excerpt: >-
-  More context that may or may not be helpful
+excerpt: More context that may or may not be helpful
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image5.jpg
@@ -34,7 +96,7 @@ bottomSections:
     showReadMoreLink: true
   - type: ContactSection
     backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
+    title: Stay up-to-date with my words ✍️
     colors: colors-f
     form:
       type: FormBlock
