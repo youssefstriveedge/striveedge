@@ -8,7 +8,7 @@
     "onPrimary": "#000000",
     "secondary": "#000000",
     "onSecondary": "#050806",
-    "complementary": "#000000",
+    "complementary": "#ffffff",
     "onComplementary": "#ffffff",
     "fontBody": "\"DM Mono\", monospace",
     "headingWeight": "400",
